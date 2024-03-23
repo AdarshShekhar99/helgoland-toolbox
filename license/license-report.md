@@ -1,4 +1,6 @@
-| License type | Link                                                           | Installed version | Name                                   |
+| License type Contributor | Link                                                           | Installed version Version 3.3.3 (x64) | 
+Name Adarsh Shekhar
+                                  |
 | :----------- | :------------------------------------------------------------- | :---------------- | :------------------------------------- |
 | MIT          | git+https://github.com/angular/angular.git                     | 15.2.8            | @angular/animations                    |
 | MIT          | git+https://github.com/angular/components.git                  | 15.2.8            | @angular/cdk                           |
